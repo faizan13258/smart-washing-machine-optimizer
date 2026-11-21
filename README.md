@@ -259,3 +259,15 @@ The system will be evaluated using simulated scenarios and documented validation
 - [x] Product workflow sketch included.
 - [ ] Implementation and experimental evaluation to be completed.
 
+
+## 13. Step 1 Deliverables
+
+| Deliverable | File |
+|---|---|
+| Valid starter dataset | [starter_cases.csv](data/starter/starter_cases.csv) |
+| Invalid test dataset | [invalid_cases.csv](data/starter/invalid_cases.csv) |
+| Python input validator | [validate_step1.py](src/validate_step1.py) |
+| Fixed-cycle baseline implementation | [fixed_cycle_baseline.py](src/fixed_cycle_baseline.py) |
+| Actual validation and baseline results | [step1_validation_results.txt](results/step1_validation_results.txt) |
+| Product interface sketch | [step1_interface_sketch.md](report/step1_interface_sketch.md) |
+
