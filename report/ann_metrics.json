@@ -1,0 +1,58 @@
+[
+    {
+        "dataset": "Validation",
+        "target": "wash_time_min",
+        "MAE": 0.1585857353224258,
+        "RMSE": 0.2035701563161484,
+        "R2": 0.9998886894961037
+    },
+    {
+        "dataset": "Validation",
+        "target": "water_consumption_l",
+        "MAE": 0.21334555560258114,
+        "RMSE": 0.2724668144076181,
+        "R2": 0.9998901987694429
+    },
+    {
+        "dataset": "Validation",
+        "target": "detergent_ml",
+        "MAE": 0.12797097451065548,
+        "RMSE": 0.16090889320179355,
+        "R2": 0.9999217651313828
+    },
+    {
+        "dataset": "Validation",
+        "target": "spin_speed_rpm",
+        "MAE": 1.3492183628478354,
+        "RMSE": 1.6965714284077515,
+        "R2": 0.9998912633358183
+    },
+    {
+        "dataset": "Test",
+        "target": "wash_time_min",
+        "MAE": 0.15832721375961384,
+        "RMSE": 0.20133255822989263,
+        "R2": 0.9998879200449466
+    },
+    {
+        "dataset": "Test",
+        "target": "water_consumption_l",
+        "MAE": 0.21237220462668535,
+        "RMSE": 0.2662987018929985,
+        "R2": 0.999894321308092
+    },
+    {
+        "dataset": "Test",
+        "target": "detergent_ml",
+        "MAE": 0.1249140119053179,
+        "RMSE": 0.15590934740529783,
+        "R2": 0.9999250684387403
+    },
+    {
+        "dataset": "Test",
+        "target": "spin_speed_rpm",
+        "MAE": 1.370011169196431,
+        "RMSE": 1.716631520626822,
+        "R2": 0.9998897200710979
+    }
+]
